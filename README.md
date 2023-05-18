@@ -1,6 +1,6 @@
 # -[test수식](test.py)
 
-많은 동전속에서 10원을 인식하고 매칭시켜준다.     
+많은 동전속에서 10원의 특징을 찾아 인식하고 매칭시켜준다.     
 
 ![coins_spread1](https://github.com/goeuddeum/python3./assets/125548154/444e5ccf-f3d9-4811-ba52-25a828216a74)
 
